@@ -1,6 +1,4 @@
-# Basics of CSS
-<br/>
-# What I learned
+# What I learned:
 
 - How to efficiently use CSS.
 - I used an external style sheet.
