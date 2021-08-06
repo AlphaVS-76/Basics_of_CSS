@@ -1,6 +1,6 @@
 # Basics of CSS
 <br/>
-##I learnt:
+## What I learnt:
 
 - How to efficiently use CSS.
 - I used an external style sheet.
